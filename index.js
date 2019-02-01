@@ -28,6 +28,6 @@ function makeInt(a){
 }
 
 function preserveDecimal(a){ 
-  number = parseFloat(a);
+  var number = parseFloat(a);
   return number;
 }
