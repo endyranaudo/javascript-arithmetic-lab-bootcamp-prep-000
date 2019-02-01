@@ -26,6 +26,6 @@ function makeInt(a){
   return parseInt(a);
 }
 
-fucntion preserveDecimal(){
-  
+fucntion preserveDecimal(a){
+  return 
 }
